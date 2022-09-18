@@ -50,6 +50,6 @@ chcp 65001
 
 [완성 파일](https://github.com/oklokl/ascii_bat/blob/main/v7.bat) 이걸 받으시면 되네요. v7.bat가 완성품입니다.
 
-https://cafe.daum.net/candan/GGFN/336
+[수정한 부분 텍스트 설명](https://cafe.daum.net/candan/GGFN/336)
 
-수정한 부분 텍스트 설명
+
