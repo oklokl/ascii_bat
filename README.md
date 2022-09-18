@@ -18,4 +18,5 @@ t.bat 실행 하시면 됩니다 저의 경우 D: 드라이브에 주로 넣고 
 d:
 t.bat
 ```
-
+> 여기 글을 보고 작성 하였습니다 [링크](https://stackoverflow.com/questions/10021464/batch-file-to-add-characters-to-beginning-and-end-of-each-line-in-txt-file)
+https://youtu.be/2djAwYxz2V8 사용법은 영상을 참고 하세요.
