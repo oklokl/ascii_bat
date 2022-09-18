@@ -45,7 +45,8 @@ chcp 65001
 >[전문가 손길bat 전승환님](https://github.com/oklokl/ascii_bat/blob/main/Others/8.bat)
 
 .
-## 
+
+##완성품 
 [완성 영상](https://youtu.be/Jkv5QC7Thro)
 
 [완성 파일](https://github.com/oklokl/ascii_bat/blob/main/v7.bat) 이걸 받으시면 되네요. v7.bat가 완성품입니다.
