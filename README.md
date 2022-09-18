@@ -35,7 +35,7 @@ chcp 65001
 * 전문가 솜씨
   * >[네이버 지식인](https://kin.naver.com/qna/detail.nhn?d1Id=1&dirId=10405&docId=428625988)
   * >모꼬모지님. 전 잘 못 외워 모모님이라고 하네요 이해 ㅎㅎ 너무 감사 드립니다.
-  * >하는 방법은 파일을 드래그 해서 올려 놓으면 알아서 되네요 신기.
+  * >하는 방법은 파일을 드래그 해서 올려 놓으면 알아서 되네요 신기. 주의 할 점은 재료가 될 txt 파일 이름은 dddd.txt로 해야 되네요.
 
   * >모모님 7.bat 실행 방법 https://youtu.be/4tZyQMN_RIE 하는 방법은 여기서 확인 하실수 있습니다.
   * >[모꼬모지님 ascii작품](https://github.com/oklokl/ascii_bat/blob/main/Others/7.bat)
