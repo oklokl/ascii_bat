@@ -10,14 +10,24 @@ https://www.asciiart.eu/plants/flowers 기초적인 이미지
 
 파일 이름은 txt.txt 로 하시면 됩니다.
 
-t.bat 파일과 동일한 폴더에 넣고.
+c.bat 파일과 동일한 폴더에 넣고.
 
-t.bat 실행 하시면 됩니다 저의 경우 D: 드라이브에 주로 넣고 실행 합니다.
+c.bat 실행 하시면 됩니다 저의 경우 D: 드라이브에 주로 넣고 실행 합니다.
 
 ```
 d:
-t.bat
+c.bat
 ```
 > 여기 글을 보고 작성 하였습니다 [링크](https://stackoverflow.com/questions/10021464/batch-file-to-add-characters-to-beginning-and-end-of-each-line-in-txt-file)
 
 https://youtu.be/2djAwYxz2V8 사용법은 영상을 참고 하세요.
+
+```
+문서가 만들어지는 과정.
+c.bat 실행 txt.txt 파일을 로드 해서 문서에 있는 문장을 모두 앞 부분을 echo " "로 만든다
+output.txt로 출력 되게 된다
+그럼 output를 열어서 맨 위에 
+@echo off
+chcp 65001
+넣으면 끝난다
+```
