@@ -32,6 +32,8 @@ chcp 65001
 넣으면 끝난다
 ```
 
+https://www.text-image.com/convert/ascii.html 복잡함 ascii 이미지 변환 하는 싸이트
+
 * 전문가 솜씨
   * >[네이버 지식인](https://kin.naver.com/qna/detail.nhn?d1Id=1&dirId=10405&docId=428625988)
   * >모꼬모지님. 전 잘 못 외워 모모님이라고 하네요 이해 ㅎㅎ 너무 감사 드립니다.
