@@ -42,6 +42,9 @@ https://wepplication.github.io/tools/asciiArtGen/  한국 ascii
 
 추천 삽입 이미지는 색상이 있는 만화 그림이 가장 적합 하며 애니 심슨이 가장 잘 되네요. 구글 이미지 검색 옵션 `선화` 기능도 조금 되긴 하네요. 하지만 분명한건 색상이 있는 그림이 가장 잘되네요. 색상이 대비 되지 않고 비슷한 경우 잘 인식을 못하네요.
 
+[저작권없는 이미지 추천 리스트 소개](https://www.mybiznow.kr/free-image-site-total/), [링크U](https://unsplash.com/)
+
+
 .
 
 * 전문가 솜씨
