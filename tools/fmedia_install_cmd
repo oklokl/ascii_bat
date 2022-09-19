@@ -1,0 +1,20 @@
+echo 프로그램 다운로드 https://stsaz.github.io/fmedia/ https://cafe.daum.net/candan/GGFN/337 
+powershell.exe -Command "& {Invoke-WebRequest -OutFile $env:ProgramFiles\fmedia\fmedia-1.29-win-x64.zip -Uri "https://github.com/stsaz/fmedia/releases/download/v1.29/fmedia-1.29-win-x64.zip"}
+
+echo 압축 해제
+tar -zxvf "%ProgramFiles%\fmedia\fmedia-1.29-win-x64.zip" -C "%ProgramFiles%"
+
+echo 설치
+"%ProgramFiles%\fmedia\fmedia.exe" --install
+
+echo 프로그램 삭제
+"%ProgramFiles%\fmedia\fmedia.exe" --uninstall
+
+echo 무료 음악 다운로드 받는곳 소개 https://blog.hootsuite.com/creative-commons-music-resources/
+echo 샘플 파일 주소 https://audionautix.com/ https://audionautix.com/Music/NiceAndEasy.mp3
+echo 샘플 파일 다운로드
+powershell.exe -Command "& {Invoke-WebRequest -OutFile d:\NiceAndEasy.mp3 -Uri "https://audionautix.com/Music/NiceAndEasy.mp3"}
+
+echo 샘플 파일 백그라운드 & 실행
+fmedia "d:\NiceAndEasy.mp3"
+fmedia "d:\NiceAndEasy.mp3" --background
