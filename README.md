@@ -32,6 +32,10 @@ chcp 65001
 넣으면 끝난다
 ```
 
+.
+
+.
+
 https://www.text-image.com/convert/ascii.html 복잡함 ascii 이미지 변환 하는 싸이트
 
 * 전문가 솜씨
