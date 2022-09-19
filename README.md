@@ -65,3 +65,9 @@ https://github.com/oklokl/ascii_bat/blob/main/v8.bat 재미 삼아 음악도 재
 https://github.com/oklokl/ascii_bat/blob/main/tools/fmedia_install_cmd fmedia 설치 방법 참고 하세요 이것을 먼져 설치 해야 `v8.bat`가 작동 합니다
 
 https://youtu.be/40KL46Uw2vA 만드는 과정 영상
+
+.
+
+>[전승환님 배치파일 음악 넣기](https://github.com/oklokl/ascii_bat/blob/main/Others/kk.bat)
+
+>[네이버 지식인](https://kin.naver.com/qna/detail.nhn?d1Id=1&dirId=104&docId=428675573)
