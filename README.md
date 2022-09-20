@@ -88,4 +88,6 @@ https://youtu.be/40KL46Uw2vA 만드는 과정 영상
 
 https://github.com/oklokl/ascii_bat/blob/main/v9.bat 글째는 문제 해결 버전
 
-https://youtu.be/TS_rRIVRstw 만드는 과정 영상
+https://youtu.be/TS_rRIVRstw 만드는 과정 영상 
+
+[완성품 쉽게 실행](https://youtu.be/bY4RyMV7iP0) 드래그 해서 cmd에 넣으면 되네요
