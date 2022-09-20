@@ -90,4 +90,4 @@ https://github.com/oklokl/ascii_bat/blob/main/v9.bat 글째는 문제 해결 버
 
 https://youtu.be/TS_rRIVRstw 만드는 과정 영상 
 
-[완성품 쉽게 실행](https://youtu.be/bY4RyMV7iP0) 드래그 해서 cmd에 넣으면 되네요
+[완성품 쉽게 실행](https://youtu.be/bY4RyMV7iP0) 완성된 bat 파일을 드래그 해서 cmd에 넣으면 되네요
