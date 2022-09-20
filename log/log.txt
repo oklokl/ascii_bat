@@ -1,0 +1,15 @@
+v9.bat 2022.9.20
+https://www.twitchquotes.com/copypastas/labels/classic?ascii-art=true 글깨짐 문제 발생 하였습니다.
+https://freve.tistory.com/83 bat 파일이름이 똑 같아서 새로 생성 되는 파일은 랜덤 하게 만들려고 하였습니다.
+
+수정한 부분
+echo chcp 65001 >> temp.txt
+echo. >> temp.txt
+추가 하였음
+
+set /a num=%random% %%778+1
+echo %num%
+move /y temp.txt test%num%.bat
+수정 하였음 오리지널은 move /y temp.txt test.bat
+
+추가 음악은 REM 하였음.
