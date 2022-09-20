@@ -80,3 +80,9 @@ https://youtu.be/40KL46Uw2vA 만드는 과정 영상
 >[전승환님 배치파일 음악 넣기](https://github.com/oklokl/ascii_bat/blob/main/Others/kk.bat)
 
 >[네이버 지식인](https://kin.naver.com/qna/detail.nhn?d1Id=1&dirId=104&docId=428675573)
+
+.
+
+https://github.com/oklokl/ascii_bat/blob/main/v9.bat 글째는 문제 해결 버전
+
+https://youtu.be/TS_rRIVRstw 만드는 과정 영상
