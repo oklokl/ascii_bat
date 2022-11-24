@@ -1,0 +1,48 @@
+REM https://cafe.daum.net/candan/GGFN/337 설명 주소
+
+REM https://github.com/stsaz/fmedia/releases  다운로드 한다 윈도우 버전  v1.29~ 앞으로 나올 버전 받으시면 되네요. 높은 순으로.
+
+REM 다운로드 폴더에  fmedia-1.29.1-win-x64.zip 파일이 있다고 가정 하고.
+
+
+REM "파일 찾아서 풀어 주기"
+for /f "delims=" %a in ('dir /a-d /b /o /s "%USERPROFILE%\Downloads\fmedia*.zip"') do (tar -zxvf "%a" -C ".") 
+
+REM 풀린 파일 폴더로 이동 하기
+cd "%USERPROFILE%\Downloads\fmedia"
+
+REM 방금 풀린 파일을 폴더가 있어야 할 자리로 이동 해주기
+REM "압축해제한 파일을 프로그램 폴더로 이동 시키기"
+xcopy "%USERPROFILE%\Downloads\fmedia" "%ProgramFiles%\fmedia\" /e /h /k 
+
+REM 설치 하기
+"%ProgramFiles%\fmedia\fmedia.exe" --install
+
+REM remove 삭제 해야 할때 
+"%ProgramFiles%\fmedia\fmedia.exe" --uninstall
+
+
+REM 재생 하려면
+fmedia file1.mp3 file2.mp3 
+
+REM 백그라운드 재생 하려면
+fmedia file.ogg --background
+
+
+REM 권한을 주어 보호 해주기
+icacls "%ProgramFiles%\fmedia" 
+takeown /F "%ProgramFiles%\fmedia" /A /r
+icacls "%ProgramFiles%\fmedia" /grant Administrators:F /t
+icacls "%ProgramFiles%\fmedia" /setowner "NT SERVICE\TrustedInstaller" /t
+icacls "%ProgramFiles%\fmedia" /grant:r Administrators:RX /t
+icacls "%ProgramFiles%\fmedia" /t
+
+REM remove 권한 삭제 
+takeown /F "%ProgramFiles%\fmedia" /A /r
+icacls "%ProgramFiles%\fmedia" /t /q /c /t /reset
+icacls "%ProgramFiles%\fmedia"
+
+REM remove 폴더 
+rmdir "%ProgramFiles%\fmedia\." /s /q
+
+ 
