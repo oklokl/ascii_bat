@@ -1,2 +1,12 @@
 pip install pygame
 버튼 누를때 소리가 나게 하기
+
+7test.py
+https://pixabay.com/ko/sound-effects/search/%ec%8a%a4%ec%9c%84%ec%b9%98/
+버튼 소리 경로 입니다.
+
+실행 하는 폴더에 light-switch-156813.mp3 파일을 넣으면 되네요.
+
+실행 영상
+https://youtu.be/KmecKL9HwI8
+https://youtu.be/YqAKCq6QSJI 소리 나게 까지 하기
