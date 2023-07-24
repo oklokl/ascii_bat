@@ -10,3 +10,6 @@ https://pixabay.com/ko/sound-effects/search/%ec%8a%a4%ec%9c%84%ec%b9%98/
 실행 영상
 https://youtu.be/KmecKL9HwI8
 https://youtu.be/YqAKCq6QSJI 소리 나게 까지 하기
+
+https://github.com/oklokl/ascii_bat/releases/tag/%EA%B7%B8%EB%83%A5
+모두 받기요
