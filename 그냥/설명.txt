@@ -12,4 +12,5 @@ https://youtu.be/KmecKL9HwI8
 https://youtu.be/YqAKCq6QSJI 소리 나게 까지 하기
 
 https://github.com/oklokl/ascii_bat/releases/tag/%EA%B7%B8%EB%83%A5
+https://github.com/oklokl/ascii_bat/files/12146942/7test.py.zip
 모두 받기요
